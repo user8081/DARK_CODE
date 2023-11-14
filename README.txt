@@ -5,10 +5,15 @@
                 
                                                                                                                                               
 
-                                                                  ⚠⚠☢☢MAKE SURE BEFORE RUNNING ANY SCRIPT OF THESE TYPE THESE COMMANDS : 
-                                                                                    1-dos2unix (script_name).sh
-                                                                                    2-chmod +x (script_name).sh⚠⚠☢☢
-                                  
+                               ⚠⚠☢☢MAKE SURE BEFORE RUNNING ANY SCRIPT OF THESE TYPE THESE COMMANDS
+                                                                1-dos2unix (script_name).sh
+                                                                2-chmod +x (script_name).sh⚠⚠☢☢
+EXAMPLES :
 
+┌──(kali㉿kali)-[~/Desktop]
+└─$ ./DARK_C0DE.sh
+(THIS IS ON YOUR TEMINAL)
+┌──(kali㉿kali)-[~/Desktop]
+└─$ ./back.sh
 
                                                              I HOPE YOU GET THAT AND HAVE A GOOD DAY.... :) NEW UPDATES SOON...
