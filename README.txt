@@ -1,3 +1,4 @@
+0-BETTER TO WORK AS ROOT WITH THESE SCRIPTS SO YOU CAN WORK COMFORTABLE
 1-the DARK_C0DE.sh file is a script designed for wireless hacking wi-fi hacking and other stuff the script still under development
 2-the back.sh is a script designed for switching from monitor mode to managed without need to restart the machine
 3-in case you faced any problem just replug your adapter and you are good to go!
@@ -10,10 +11,11 @@
                                                                 2-chmod +x (script_name).sh⚠⚠☢☢
 EXAMPLES :
 
-┌──(kali㉿kali)-[~/Desktop]
-└─$ ./DARK_C0DE.sh
+┌──(root㉿kali)-[/home/kali/Desktop]
+└─# ./DARK_C0DE.sh
+
 (THIS IS ON YOUR TEMINAL)
-┌──(kali㉿kali)-[~/Desktop]
-└─$ ./back.sh
+┌──(root㉿kali)-[/home/kali/Desktop]
+└─# /back.sh
 
                                                              I HOPE YOU GET THAT AND HAVE A GOOD DAY.... :) NEW UPDATES SOON...
